@@ -1,0 +1,12 @@
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.deps.json
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.runtimeconfig.json
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.runtimeconfig.dev.json
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.AssemblyInfo.cs
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.csprojResolveAssemblyReference.cache
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\bin\Debug\netcoreapp2.0\audio.raw
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.dll
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\bin\Debug\netcoreapp2.0\QuickStart.pdb
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.csproj.CoreCompileInputs.cache
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.AssemblyInfoInputs.cache
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.dll
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\QuickStart\obj\Debug\netcoreapp2.0\QuickStart.pdb

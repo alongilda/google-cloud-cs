@@ -1,0 +1,11 @@
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\bin\Debug\netcoreapp2.0\Recognize.deps.json
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\bin\Debug\netcoreapp2.0\Recognize.runtimeconfig.json
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\bin\Debug\netcoreapp2.0\Recognize.runtimeconfig.dev.json
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\obj\Debug\netcoreapp2.0\Recognize.AssemblyInfo.cs
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\obj\Debug\netcoreapp2.0\Recognize.csproj.CoreCompileInputs.cache
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\obj\Debug\netcoreapp2.0\Recognize.AssemblyInfoInputs.cache
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\obj\Debug\netcoreapp2.0\Recognize.csprojResolveAssemblyReference.cache
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\bin\Debug\netcoreapp2.0\Recognize.dll
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\bin\Debug\netcoreapp2.0\Recognize.pdb
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\obj\Debug\netcoreapp2.0\Recognize.dll
+C:\WORK\googleCSharp\dotnet-docs-samples\speech\api\Recognize\obj\Debug\netcoreapp2.0\Recognize.pdb
